@@ -1,6 +1,8 @@
 ![readme_image](https://user-images.githubusercontent.com/71706696/143457159-a3d72804-dfac-45ee-ac7a-9904d3d25fc2.png)
 
-Welcome to my profile! I love working with data, eating great food and playing various sports. You can find some of my projects here on my GitHub.
+Welcome to my profile 👋 
+
+I'm a data lover that went to the University of Bath (MSc Data Science and BSc Economics) and also loves great food and playing sports.
 
 ### My Repositories
 
